@@ -11,10 +11,3 @@ This repository contains the official whitepaper and roadmap for MuskBite, a mem
 - **Twitter:** [@muskbitecoin](https://x.com/muskbitecoin)
 
 > Grab the bite. Join the hype.
-
----
-
-## Documents
-
-- [WHITEPAPER.md](WHITEPAPER.md)
-- [ROADMAP.md](ROADMAP.md)
